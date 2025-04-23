@@ -1,0 +1,29 @@
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/bin/Debug/net7.0/Zadanie 3
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/bin/Debug/net7.0/Zadanie 3.deps.json
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/bin/Debug/net7.0/Zadanie 3.runtimeconfig.json
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/bin/Debug/net7.0/Zadanie 3.dll
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/bin/Debug/net7.0/Zadanie 3.pdb
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.csproj.AssemblyReference.cache
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.AssemblyInfoInputs.cache
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.AssemblyInfo.cs
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.csproj.CoreCompileInputs.cache
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.dll
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/refint/Zadanie 3.dll
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.pdb
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/Zadanie 3.genruntimeconfig.cache
+/Users/jannowak/Projects/Czwarte Zajęcia/Zadanie 3/obj/Debug/net7.0/ref/Zadanie 3.dll
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\bin\Debug\net7.0\Zadanie 3.exe
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\bin\Debug\net7.0\Zadanie 3.deps.json
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\bin\Debug\net7.0\Zadanie 3.runtimeconfig.json
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\bin\Debug\net7.0\Zadanie 3.dll
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\bin\Debug\net7.0\Zadanie 3.pdb
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.AssemblyInfoInputs.cache
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.AssemblyInfo.cs
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.dll
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\refint\Zadanie 3.dll
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.pdb
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\Zadanie 3.genruntimeconfig.cache
+C:\Users\jasno\iCloudDrive\Desktop\Programowanie\4\Zadanie 3\obj\Debug\net7.0\ref\Zadanie 3.dll
