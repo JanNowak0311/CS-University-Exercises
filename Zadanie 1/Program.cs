@@ -1,20 +1,24 @@
-﻿int x = 0,y = 0,z = 0;
-Console.WriteLine("Podaj x");
-x = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Podaj y");
-y = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Podaj z");
-z = Convert.ToInt32(Console.ReadLine());
-int c = ((x * x) + (y * y));
-Console.WriteLine();
-if ((x * x) + (y * y) == (z * z))
+﻿int i = 0;
+double a = 0;
+while (i == 0)
 {
-    Console.WriteLine("Trojka pitagorejska");
-     
-}
-else
-{
-    Console.WriteLine("Nie Trojka pitagorejska");
+    Console.WriteLine("Podaj liczbe a:");
+    a = Convert.ToDouble(Console.ReadLine());
+    if (a != 0)
+    {
+
+        break;
+
+
+    }
+    Console.WriteLine("a = 0");
 
 }
+Console.WriteLine("Podaj liczbe b:");
+double b = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Podaj liczbe c:");
+double c = Convert.ToDouble(Console.ReadLine());
+double z = ((c - b) / a);
+Console.WriteLine("x = {0}", z);
 Console.ReadKey();
+

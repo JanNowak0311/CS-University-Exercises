@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jannowak/Projects/Pierwsze Zajęcia/Zadanie 2/Zadanie 2.csproj",
+      "projectUniqueName": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 2/Zadanie 2.csproj",
       "projectName": "Zadanie 2",
-      "projectPath": "/Users/jannowak/Projects/Pierwsze Zajęcia/Zadanie 2/Zadanie 2.csproj",
+      "projectPath": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 2/Zadanie 2.csproj",
       "packagesPath": "/Users/jannowak/.nuget/packages/",
-      "outputPath": "/Users/jannowak/Projects/Pierwsze Zajęcia/Zadanie 2/obj/",
+      "outputPath": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jannowak/.nuget/NuGet/NuGet.Config"

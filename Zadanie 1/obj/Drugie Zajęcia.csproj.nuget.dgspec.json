@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 3/Zadanie 3.csproj": {}
+    "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj": {}
   },
   "projects": {
-    "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 3/Zadanie 3.csproj": {
+    "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 3/Zadanie 3.csproj",
-        "projectName": "Zadanie 3",
-        "projectPath": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 3/Zadanie 3.csproj",
+        "projectUniqueName": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj",
+        "projectName": "Drugie Zajęcia",
+        "projectPath": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj",
         "packagesPath": "/Users/jannowak/.nuget/packages/",
-        "outputPath": "/Users/jannowak/Projects/Drugie Zajęcia/Zadanie 3/obj/",
+        "outputPath": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jannowak/.nuget/NuGet/NuGet.Config"
