@@ -1,21 +1,17 @@
-string c = "";
-int b = 0;
-int suma = 0;
-Console.WriteLine("Wszystkie trzycyfrowe liczby których suma sześcianów poszczególnych cyfr jest równa danej liczbie to: ");
-for (int i = 100; i < 1000; i++)
+﻿for (int i = 65; i < 91; i++)
 {
-    //Console.WriteLine(i);
-    suma = 0;
-    for (int j = 0; j < 3; j++)
-    {
-        c = Convert.ToString(i);
-        b = c[j] - '0';
-        //Console.WriteLine(b);
-        suma += (b * b * b);
-    }
-    if (suma == i)
-    {
-        Console.WriteLine(i);
-    }
+    Console.Write(Convert.ToChar(i) + ", ");
 }
-Console.ReadKey();﻿
+
+int j = 90;
+Console.WriteLine();
+while (j > 64){
+    Console.Write(Convert.ToChar(j) + ", ");
+    j--;
+}
+Console.WriteLine();
+for (int i = 90; i > 64; i--)
+{
+    Console.Write(Convert.ToChar(i) + ", ");
+}
+Console.ReadKey();

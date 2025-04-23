@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj": {}
+    "/Users/jannowak/Projects/Trzecie Zajęcia/Trzecie Zajęcia/Trzecie Zajęcia.csproj": {}
   },
   "projects": {
-    "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj": {
+    "/Users/jannowak/Projects/Trzecie Zajęcia/Trzecie Zajęcia/Trzecie Zajęcia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj",
-        "projectName": "Drugie Zajęcia",
-        "projectPath": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/Drugie Zajęcia.csproj",
+        "projectUniqueName": "/Users/jannowak/Projects/Trzecie Zajęcia/Trzecie Zajęcia/Trzecie Zajęcia.csproj",
+        "projectName": "Trzecie Zajęcia",
+        "projectPath": "/Users/jannowak/Projects/Trzecie Zajęcia/Trzecie Zajęcia/Trzecie Zajęcia.csproj",
         "packagesPath": "/Users/jannowak/.nuget/packages/",
-        "outputPath": "/Users/jannowak/Projects/Drugie Zajęcia/Drugie Zajęcia/obj/",
+        "outputPath": "/Users/jannowak/Projects/Trzecie Zajęcia/Trzecie Zajęcia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jannowak/.nuget/NuGet/NuGet.Config"
